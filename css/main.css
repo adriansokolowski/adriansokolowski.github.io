@@ -1,0 +1,21 @@
+::-webkit-scrollbar {
+  width: 5px
+}
+::-webkit-scrollbar-track {
+  background-color: transparent;
+  border-radius: 10px
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-image: initial;
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: #254896
+}
+
